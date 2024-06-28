@@ -16,7 +16,7 @@ const Header = () => {
         </div>
       </div>
       <div className="flex-1 pr-20 flex justify-center items-center">
-        <img src="public/irfan.png" alt="irfan" className="max-w-full max-h-full" />
+        <img src="/irfan.png" alt="irfan" className="max-w-full max-h-full" />
       </div>
     </div>
   );
