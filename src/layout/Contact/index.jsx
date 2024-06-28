@@ -2,25 +2,25 @@ import React from "react";
 
 const contacts = [
   {
-    imgSrc: "src/assets/whatsapp.svg",
+    imgSrc: "public/whatsapp.svg",
     altText: "whatsapp",
     href: "https://wa.me/6281915934310",
     text: "+6281915934310",
   },
   {
-    imgSrc: "src/assets/gmail.svg",
+    imgSrc: "public/gmail.svg",
     altText: "gmail",
     href: "mailto:irfanplazuardi@gmail.com",
     text: "irfanplazuardi@gmail.com",
   },
   {
-    imgSrc: "src/assets/github.svg",
+    imgSrc: "public/github.svg",
     altText: "github",
     href: "https://github.com/irfanplazuardi",
     text: "irfanplazuardi",
   },
   {
-    imgSrc: "src/assets/linkedin.svg",
+    imgSrc: "public/linkedin.svg",
     altText: "linkedin",
     href: "https://www.linkedin.com/in/irfan-prima-lazuardi-316731a8/",
     text: "Irfan Prima Lazuardi",
