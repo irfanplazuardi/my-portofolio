@@ -1,0 +1,25 @@
+[
+    {
+      "id": 1,
+      "imgSrc": "/masakin.png",
+      "title": "Masakin",
+      "description": "One-stop solution for all your recipe needs, offering comprehensive meal planning and interactive cooking guides to support your journey towards a healthier lifestyle",
+      "tags": ["Nextjs", "Tailwind CSS", "TypeScript"]
+    },
+    {
+      "id": 2,
+      "imgSrc": "/masakin.png",
+      "title": "Masakin",
+      "description": "One-stop solution for all your recipe needs, offering comprehensive meal planning and interactive cooking guides to support your journey towards a healthier lifestyle",
+      "tags": ["Nextjs", "Tailwind CSS", "TypeScript"]
+    },
+    {
+        "id": 3,
+        "imgSrc": "/masakin.png",
+        "title": "Masakin",
+        "description": "One-stop solution for all your recipe needs, offering comprehensive meal planning and interactive cooking guides to support your journey towards a healthier lifestyle",
+        "tags": ["Nextjs", "Tailwind CSS", "TypeScript"]
+    }
+
+]
+  

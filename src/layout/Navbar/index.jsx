@@ -19,12 +19,12 @@ const Navbar = () => {
     }
   };
   return (
-    <nav>
-      <div className={`bg-[#2626d1] flex justify-center place-items-center w-screen gap-10 text-white p-5 `}>
+    <nav className="flex justify-center items-center pb-20">
+      <div className={`flex justify-center place-items-center gap-1 p-5 m-5 text-[#C84747] bg-white rounded-full w-fit font-semibold text-[20px]`}>
         <Button buttonName="About Me" targetSection="aboutme" />
-        <Button buttonName="Education" targetSection="education" />
-        <Button buttonName="Experiences" targetSection="experiences" />
+        <Button buttonName="Experiences" targetSection="experience" />
         <Button buttonName="Projects" targetSection="projects" />
+        <Button buttonName="Skills" targetSection="skills" />
         <Button buttonName="Contact" targetSection="contact" />
       </div>
     </nav>

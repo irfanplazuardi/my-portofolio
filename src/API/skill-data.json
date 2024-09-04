@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Frontend",
+        "icon": ["javascript", "react", "nextjs", "typescript", "tailwind"]
+    },
+    {
+        "id": 2,
+        "title": "Backend",
+        "icon": ["mysql", "flask", "python"]
+    },
+    {
+        "id": 3,
+        "title": "QA",
+        "icon": ["cypress", "robot-framework", "selenium"]
+    },
+    {
+        "id": 4,
+        "title": "Others",
+        "icon": ["github", "postman", "figma"]
+    }
+]
